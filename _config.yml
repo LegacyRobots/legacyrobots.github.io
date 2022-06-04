@@ -9,7 +9,7 @@ name: UCI Legacy Robotics
 author: UCI Legacy Robotics
 
 # Short bio or description (displayed in the header)
-description: RoboMaster NA
+description: UC Irvine | RoboMaster NA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/Legacy_v2.png
@@ -55,7 +55,7 @@ enforce_ssl: https://www.amitmerchant.com/reverie
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/blogg"
+baseurl: "/blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
