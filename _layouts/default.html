@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
     {% include meta.html %}
 
@@ -10,7 +10,7 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/legacy_32x32.png">
     {% include analytics_head.html %}
   </head>
 
@@ -23,15 +23,15 @@
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
             <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <h1 class="site-name"><a href="{{ site.baseurl }}/about">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p> 
             </div>
 
             <nav>
               <div>{% include svg-icons.html %}</div>
               <div>
-                <a href="{{ site.baseurl }}/">Blog</a>
-                <a href="">Documentation</a> <!-- will be href="/docs" at a later point -->
+                <a href="{{ site.baseurl }}/about">About</a>
+                <a href="">Blog (Coming Soon)</a> <!-- will be href="/docs" at a later point -->
                 <!--<a href="{{ site.baseurl }}/search">Search</a>
                 <a href="{{ site.baseurl }}/about">About</a>
                 <a href="{{ site.baseurl }}/archive">Archive</a>-->
