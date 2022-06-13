@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About UCI Legacy Robotics
 permalink: /about/
 ---
 
@@ -26,4 +26,4 @@ we have a place for you!
 - E-Sports
     - Coaches, Pilots
 
-All applicants please fill out this form [https://forms.gle/J6GtbYnP1Dh6SwVV6](https://forms.gle/J6GtbYnP1Dh6SwVV6)
+All applicants will need to fill out an applicant form to be considered. Please contact us at [UCI.LegacyRobots@gmail.com](mailto:uci.legacyrobots@gmail.com) to apply!
