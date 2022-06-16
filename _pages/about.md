@@ -15,7 +15,8 @@ just at the beginning of our journey and would love to have you with us!
 ## RoboMaster RMUL 2021, 3v3 Competition Rule
 
 [![RoboMaster NA 3v3 Introduction]({{ site.baseurl }}/images/3v3youtube.png){: .center-image}](http://www.youtube.com/watch?v=IzeVCfvahug "RoboMaster RMUL 2021, 3v3 Competition Rule")
-[Watch the 3v3 video here!](http://www.youtube.com/watch?v=IzeVCfvahug)
+[(Watch the 3v3 video here!)](http://www.youtube.com/watch?v=IzeVCfvahug)
+
 ![Robot types](https://rm-static.djicdn.com/robomasters/dps/8d5bc0c5bad222fcaaae4a46ad36caa7.png){: .center-image}
 
 **The RMUL 2022 includes 3V3 Confrontation and Standard Confrontation.**
