@@ -4,7 +4,7 @@ title: Starting up
 excerpt: It's been a tough journey for us getting into UC Irvine. Each one of us has a personal story of trials and tribulations - but we made it. Armed with grit and determination, we step into RoboMaster University League (RMUL). Please follow our progress on this blog as we make our way!
 ---
 
-![UCI Logo](https://brand.uci.edu/master-branding/primary-logos/_img/UCI_primarylogo_printblue.png){: .center-image}
+![Banner]({{ site.baseurl }}/images/uci_banner.png){: .center-image}
 
 **Transfer students from IVC**
 
