@@ -4,7 +4,7 @@ title: About UCI Legacy Robotics
 permalink: /about/
 ---
 
-![Banner]({{ site.baseurl }}/images/Collage_greybg.png){: .center-image}
+![Banner]({{ site.baseurl }}/images/aboutbg.png){: .center-image}
 
 We are a robotics team for the RoboMaster University League (North America). 
 Our goal is to build three combat ready robots to compete in a 3v3, League of Legends 
