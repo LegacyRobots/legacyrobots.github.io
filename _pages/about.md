@@ -32,13 +32,13 @@ In the "Standard Confrontation", Standards (newly added Automatic Standard Group
 Building a successful robotics team requires people from all skillsets. If you're interested, then 
 we have a place for you!
 
-- Engineering
+- **Engineering**
     - Mechanical, Electrical, and Software
 
-- Business
+- **Business**
     - Fundraisers, Press, Artists, Photographers
 
-- E-Sports
+- **E-Sports**
     - Coaches, Pilots
 
 All applicants will need to fill out an applicant form to be considered. Please contact us at [UCI.LegacyRobots@gmail.com](mailto:uci.legacyrobots@gmail.com) to apply!
