@@ -12,6 +12,16 @@ styled, tower defense. To do this we’ll need Engineers, Business leaders, and 
 staff. If these things sound interesting to you, then contact us at [UCI.LegacyRobots@gmail.com](mailto:uci.legacyrobots@gmail.com)! We’re 
 just at the beginning of our journey and would love to have you with us!
 
+## RoboMaster RMUL 2021, 3v3 Competition Rule
+
+[![RoboMaster NA 3v3 Introduction](http://img.youtube.com/vi/IzeVCfvahug/0.jpg)](http://www.youtube.com/watch?v=IzeVCfvahug "RoboMaster RMUL 2021, 3v3 Competition Rule")
+
+The RMUL 2022 includes 3V3 Confrontation and Standard Confrontation.
+In the "3V3 Confrontation", participating teams need to independently develop Standard, Hero and Sentry to participate in tactical battles in the designated battlefield and participate in tactical battles in the designated battlefield. Participants control their robots to attack enemy’s robots and Base by launching projectiles. At the end of the match, the team with the highest remaining Base HP wins.
+In the "Standard Confrontation", Standards (newly added Automatic Standard Group for 2022 season) from each team (1V1) fight against each other by shooting the Armor Modules. At the end of the match, the team with the highest remaining Standard HP wins.
+
+[More information: ](https://www.robomaster.com/en-US/robo/college-league?djifrom=rmu1)
+
 ## Open Roles
 
 Building a successful robotics team requires people from all skillsets. If you're interested, then 
