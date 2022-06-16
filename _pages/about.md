@@ -24,7 +24,7 @@ In the "3V3 Confrontation", participating teams need to independently develop St
 
 In the "Standard Confrontation", Standards (newly added Automatic Standard Group for 2022 season) from each team (1V1) fight against each other by shooting the Armor Modules. At the end of the match, the team with the highest remaining Standard HP wins.
 
-[More information: ](https://www.robomaster.com/en-US/robo/college-league?djifrom=rmu1)
+[Click here to learn more!](https://www.robomaster.com/en-US/robo/college-league?djifrom=rmu1)
 
 ## Open Roles
 
