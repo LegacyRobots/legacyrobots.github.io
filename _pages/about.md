@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 ---
 
-![Banner]({{ site.baseurl }}/images/Collage_greybg.png)
+![Banner]({{ site.baseurl }}/images/Collage_greybg.png){: .center-image}
 
 We are a robotics team for the RoboMaster University League (North America). 
 Our goal is to build three combat ready robots to compete in a 3v3, League of Legends 
@@ -14,11 +14,11 @@ just at the beginning of our journey and would love to have you with us!
 
 ## RoboMaster RMUL 2021, 3v3 Competition Rule
 
-[![RoboMaster NA 3v3 Introduction](http://img.youtube.com/vi/IzeVCfvahug/0.jpg)](http://www.youtube.com/watch?v=IzeVCfvahug "RoboMaster RMUL 2021, 3v3 Competition Rule")
+[![RoboMaster NA 3v3 Introduction](http://img.youtube.com/vi/IzeVCfvahug/0.jpg)](http://www.youtube.com/watch?v=IzeVCfvahug "RoboMaster RMUL 2021, 3v3 Competition Rule"){: .center-image}
 
-![Robot types](https://rm-static.djicdn.com/robomasters/dps/8d5bc0c5bad222fcaaae4a46ad36caa7.png)
+![Robot types](https://rm-static.djicdn.com/robomasters/dps/8d5bc0c5bad222fcaaae4a46ad36caa7.png){: .center-image}
 
-The RMUL 2022 includes 3V3 Confrontation and Standard Confrontation.
+**The RMUL 2022 includes 3V3 Confrontation and Standard Confrontation.**
 
 In the "3V3 Confrontation", participating teams need to independently develop Standard, Hero and Sentry to participate in tactical battles in the designated battlefield and participate in tactical battles in the designated battlefield. Participants control their robots to attack enemy’s robots and Base by launching projectiles. At the end of the match, the team with the highest remaining Base HP wins.
 
