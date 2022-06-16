@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About UCI Legacy Robotics
+title: About Us
 permalink: /about/
 ---
 
