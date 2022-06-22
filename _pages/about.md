@@ -9,7 +9,7 @@ permalink: /about/
 We are a robotics team for the RoboMaster University League (North America). 
 Our goal is to build three combat ready robots to compete in a 3v3, League of Legends 
 styled, tower defense. To do this we’ll need Engineers, Business leaders, and supporting 
-staff. If these things sound interesting to you, then contact us at [UCI.LegacyRobots@gmail.com](mailto:uci.legacyrobots@gmail.com)! We’re 
+staff. If these things sound interesting to you, then contact us at [UCI.LegacyRobots@gmail.com](mailto:UCI.legacyrobots@gmail.com)! We’re 
 just at the beginning of our journey and would love to have you with us!
 
 ## RoboMaster RMUL 2021, 3v3 Competition Rule
