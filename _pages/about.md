@@ -32,13 +32,28 @@ In the "Standard Confrontation", Standards (newly added Automatic Standard Group
 Building a successful robotics team requires people from all skillsets. If you're interested, then 
 we have a place for you!
 
-- **Engineering**
-    - Mechanical, Electrical, and Software
-
 - **Business**
-    - Fundraisers, Press, Artists, Photographers
+    - Helping to establish a 501c(3) nonprofit
+    - Project management
+    - Maintaining business relations with corporate sponsors
+    - Managing relations with UCI (Club officer)
+    - Fundraising
+    - Marketing / Brand creation (working with designers)
+
+- **Electrical Engineers**
+    - PCB Design
+    - THT and SMD soldering experience
+
+- **Designers**
+    - Graphic Designer (UX/UI, digital media, print media, branding)
+    - Front-end Web Developer (website, eblasts)
+    - Photographer
+    - Videographer
 
 - **E-Sports**
     - Coaches, Pilots
+
+- **Translator**
+    - Mandarin-English Translator with ability to read technical documents
 
 All applicants will need to fill out an applicant form to be considered. Please contact us at [UCI.LegacyRobots@gmail.com](mailto:uci.legacyrobots@gmail.com) to apply!
