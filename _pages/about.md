@@ -53,7 +53,4 @@ we have a place for you!
 - **E-Sports**
     - Coaches, Pilots
 
-- **Translator**
-    - Mandarin-English Translator with ability to read technical documents
-
 All applicants will need to fill out an applicant form to be considered. Please contact us at [UCI.LegacyRobots@gmail.com](mailto:uci.legacyrobots@gmail.com) to apply!
